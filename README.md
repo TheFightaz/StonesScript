@@ -4,4 +4,4 @@
 - Enjoy!!
 
 
-First Fully configurable script by me :)
+- First Fully configurable script by me :)
